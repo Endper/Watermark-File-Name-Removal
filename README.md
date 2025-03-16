@@ -1,5 +1,5 @@
 # Watermark File Name Removal (WFNR)
-### Currently being worked on. Percent completed : 5%
+### Currently being worked on. Completed : 5%
 
 Used to remove watermarks that are injected in a file name downloaded from a website
 
