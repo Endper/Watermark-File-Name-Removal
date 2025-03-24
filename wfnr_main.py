@@ -54,7 +54,7 @@ root.resizable(False, False)
 
 
 # Make all of the window elements
-# Progress -> +19% (9% remaining)
+# Progress -> +19% (5% remaining)
 # ! IMPORTANT TODO: Add newlines or empty lines for better text formatting
 # TODO: Make the entry and button align on the same line
 # ? Just use a grid.
