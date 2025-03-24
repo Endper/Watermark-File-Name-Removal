@@ -1,10 +1,12 @@
 # Watermark File Name Removal (WFNR) 
 ## Version 0.0.0
-> Currently being worked on. Completed : ~5%
+> Currently being worked on. Completed : ~20%
 
 Used to remove watermarks that are injected in a file name downloaded from a website
 ___
 This originally started of as a small python macro project for personal use. However, I have decided to turn this into an open-source thing for anyone to use it.
+
+Some website injects some sort of watermark before (or after) the name of the actual files that you download. This program is useful to automate the process of renaming them - saves time.
 
 
 # How to Run It
