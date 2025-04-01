@@ -16,7 +16,6 @@ as an executable of some sort.
 (Still working on the executable part).
 
 
-
 # Requirements
 
 If you want to modify it or use it, make sure you have these installed on your computer:
@@ -24,6 +23,10 @@ If you want to modify it or use it, make sure you have these installed on your c
 Mainly just tkinter. Install it through
 `pip install tkinter` ,
 the program also uses the OS built-in library.
+
+
+# Pull Requests and Issues
+Are both welcome as long as they are reasonable. Credit will be given where it's most appropriate.
 
 
 # License
